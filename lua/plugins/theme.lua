@@ -1,0 +1,1 @@
+/home/gand/.config/omarchy/current/theme/neovim.lua
